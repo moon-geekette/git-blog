@@ -1,0 +1,36 @@
+
+/* Main CSS rules */
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.orange{
+  color: orange;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+#main-container{
+  min-height: 500px;
+  padding-bottom: 30px;
+}
+
+
+/* Footer CSS */
+
+#footer{
+  padding: 20px;
+  background: rgb(77,28,27);
+  color: white;
+}
+
+#footer a{
+  font-size: 30px;
+}
+
+#footer a.orange:hover{
+  color: orange;
+}
